@@ -1,24 +1,50 @@
-<h1>Hello there! 😄</h1>
+# Hello There! :wave:
 
- <div>
-  <p>
-    Meu nome é <b>Vinícius Benevides</b>, sou estudante de Engenharia de Computação na Faculdade Engenheiro Salvador Arena e Estagiário em Desenvolvimento de Sistemas na Termomecanica SP SA
-  </p>
-  
-  <p>
-    Sempre tive muito interesse por tecnologia e programação, e fico feliz em compartilhar nesse espaço meus aprendizados e estudos!
-  </p>
-  
-</div>
+Meu nome é **Vinícius Benevides**, sou um _Full-Stack Software Engineer_  
 
- <div>
-  <a href="https://github.com/ViniciusBenevidesdaSilva">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ViniciusBenevidesdaSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBenevidesdaSilva&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-##
-  
-<div> 
-    <a href="https://www.linkedin.com/in/vinicius-benevides/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>  
+Go • Distributed Systems • Event-Driven Architecture • Next.js SSR
+
+## 🚀 Sobre mim
+
+Engenheiro de Software full-stack com foco em arquitetura de sistemas distribuídos. 
+
+Atuo no desenvolvimento de APIs REST em Go, mensageria com RabbitMQ, controle de concorrência com goroutines e aplicações SSR com Next.js orientadas a SEO e performance.
+
+Minha abordagem prioriza resiliência, previsibilidade e clareza arquitetural.
+
+## 🧠 Especialidades Técnicas
+
+- Concorrência e paralelismo em Go
+- Retry patterns e idempotência
+- Event-driven architecture
+- Clean Architecture
+- Cache distribuído com Redis
+- Modelagem relacional e otimização de consultas
+- Observabilidade e logs estruturados
+
+## 🛠 Stack Principal
+
+### Backend
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge)
+![REST](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+
+### Banco de Dados
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![SSR](https://img.shields.io/badge/SSR-SEO%20First-black?style=for-the-badge)
+
+### Mensageria & Cache
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/vinicius-benevides)
+- [Email](viniciusbenevidesdasilva16@gmail.com)
+- [Portifólio](https://vinicius-benevides.github.io/Portifolio)
